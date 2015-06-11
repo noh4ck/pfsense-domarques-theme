@@ -25,7 +25,7 @@ Place theme files under:
 
 Download (git or zip) and upload files:
 
-    git clone https://github.com/domarques/pfsense-domarques-theme.git domarques
+    git clone https://github.com/noh4ck/pfsense-domarques-theme.git domarques
     scp -r domarques root@ip_or_fqdn_of_pfsense:/usr/local/www/themes/
 
 Go to and set theme option *domarques*.
