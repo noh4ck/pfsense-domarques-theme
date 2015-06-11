@@ -31,7 +31,7 @@ form input{font-size:1.1em;}
 iframe{z-index:1;border:1px dashed #900;}
 .iframe{background:#fff;}
 /* ID Based CSS Definitions */
-#wrapper{width:95%;margin:0 auto;}
+#wrapper{width:95%; max-width: 1000px; margin:0 auto;}
 #header{background:0;height:100px;width:100%;margin-bottom:5px;z-index:2;background-position:0 0;}
 #header-left{position:relative;background:url(images/pfsense.png) no-repeat center;height:100px;width:145px;left:10px;float:left;}
 #header-left #status-link{position:relative;top:10px;left:6px;}
